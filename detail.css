@@ -421,5 +421,5 @@ footer {
 .transparent-text {
     /*font-size: 50px;
     font-weight: bold;*/
-    color: rgba(255, 255, 255, 0.5); /* 只影响文字颜色 */
+    color: rgba(255, 255, 255, 0.7); /* 只影响文字颜色 */
 }
